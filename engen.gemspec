@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "engen.gemspec",
     "lib/generators/engine/USAGE",
     "lib/generators/engine/engine_generator.rb",
     "lib/generators/engine/templates/Gemfile",
