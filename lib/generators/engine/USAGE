@@ -1,0 +1,8 @@
+Description:
+    Generates a Rails 3-compatible engine for neat extension.
+
+Example:
+    rails generate engine WidgetEngine
+
+    This will create:
+        vendor/engines/widget_engine
