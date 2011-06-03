@@ -22,6 +22,7 @@ Jeweler::Tasks.new do |gem|
   gem.description = %Q{A gem for Ruby on Rails 3 that adds an engine generator for easy code extension}
   gem.email = "joshua.mcarthur@gmail.com"
   gem.authors = ["Josh McArthur"]
+  gem.platform = "Gem::Platform::Ruby"
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
